@@ -9,4 +9,9 @@ We develop technology that enables storytelling and enhances creative workflows 
 - Workflow solutions for storytelling
 - Software that empowers entertainment professionals
 
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 [Website](https://primatif.com)
