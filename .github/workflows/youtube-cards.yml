@@ -21,3 +21,4 @@ jobs:
           max_videos: 6
           card_width: 250
           show_duration: true # Requires YouTube API Key
+          playlist_id: PL2NvA4OAtDRSBNL2g_yxHajL6G5XMedEM
