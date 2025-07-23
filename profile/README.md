@@ -3,7 +3,7 @@
 Primatif partners with organizations of all sizes, offering expert consulting, engineering, and strategic guidance to empower them in navigating their technological landscape with confidence and driving growth through innovation.
 
 <div align="center">
-  <img src="business-card.gif" alt="Primatif Business Card" />
+  <img src="image.png" alt="Primatif Banner" />
 </div>
 
 ---
